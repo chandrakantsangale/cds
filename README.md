@@ -1,7 +1,9 @@
 # cds
 [New Username Updated](http://github.com/cds)
 Successs :sparkles: :tada:
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=cds.cds)
  
 <p align="center">
 	<a href="https://github.com/cds"> GitHub</a>
