@@ -5,7 +5,7 @@
 	<a href="https://twitter.com/c_sangale">Twitter</a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cds&repo=cds)](https://github.com/cds)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cds&repo=cds)](https://github.com/cds/cds/blob/master/README.md)
 
 
 [![cds's github stats](https://github-readme-stats.vercel.app/api?username=cds&count_private=true&show_icons=true&theme=radical)](https://github.com/cds)
