@@ -1,4 +1,4 @@
-# cds :warning:
+# cds :warning: :construction:
 
 <p align="right">
 	<a href="https://github.com/cds">GitHub</a>
@@ -16,10 +16,10 @@
 <h1>Live Demo</h1>
 <p align="left">
 	<a href="https://codeio.netlify.app">Gatsby Blog {Netlify deployed}</a><hr>
-	<a href="https://cds.github.io/">Profile : working :warning: </a><hr>
+	<a href="https://cds.github.io/">Profile   : working  :construction: :warning: </a><hr>
 	<a href="https://chandrakantsangale.netlify.app">Just Another Blog Gatsby Template </a><hr>
 	<a href="https://codeiotech.netlify.app/">Gatsby + bootstrap </a><hr>
-	<a href="https://appstrapper.netlify.app/examples/blog/">bootstrap + webpack (appstraper) deprecated project{wrong deployed}</a><hr>
+	<a href="https://appstrapper.netlify.app/examples/blog/">bootstrap + webpack (appstraper) deprecated project  :x: {wrong deployed}</a><hr>
 	<ul>
 	<li>
 	<a href="https://nextapitest.csangale.now.sh/">Random Quote {Vercel deployed}</a></li><hr>
@@ -28,7 +28,8 @@
 </ul>
 
 <ul>
-	<a href="https://csangale.bss.design/">Resume :warning:{bootstrap studio deployed}</a></li><hr>
+	<a href="https://csangale.bss.design/">Resume  :construction: :warning:{bootstrap studio deployed}</a></li><hr>
+	<a href="https://cds.bss.design/">Demo Design :construction:  :warning: :x: {bootstrap studio deployed}</a></li><hr>
 	
 </ul>
 	
