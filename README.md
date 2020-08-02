@@ -24,7 +24,12 @@
 	<li>
 	<a href="https://nextapitest.csangale.now.sh/">Random Quote {Vercel deployed}</a></li><hr>
 	<li><a href="https://nextjs.csangale.now.sh//">Welcome to Next! Stater Example </a>
-	</li>
+	</li><hr>
+</ul>
+
+<ul>
+	<a href="https://csangale.bss.design/">Resume :warning:{bootstrap studio deployed}</a></li><hr>
+	
 </ul>
 	
 </p>
