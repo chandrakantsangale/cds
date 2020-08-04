@@ -11,7 +11,7 @@
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cds&hide=html)](https://github.com/cds)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cds)](https://github.com/cds)
 
 <h1>Live Demo</h1>
 <p align="left">
