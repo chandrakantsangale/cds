@@ -4,7 +4,7 @@
 	<a href="https://github.com/cds">GitHub</a>
 	<a href="https://twitter.com/c_sangale">Twitter</a>
 </p>
----
+
 <h1>Live Demo</h1>
 <p align="left">
 	<a href="https://codeio.netlify.app">Gatsby Blog {Netlify deployed}</a><hr>
