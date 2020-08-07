@@ -1,4 +1,3 @@
-# cds :warning: :construction:
 
 <p align="right">
 	<a href="https://github.com/cds">GitHub</a>
