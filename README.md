@@ -8,7 +8,7 @@
 <h1>Live Demo</h1>
 <p align="left">
 	<a href="https://codeio.netlify.app">Gatsby Blog {Netlify deployed}</a><hr>
-	<a href="https://cds.github.io/">Profile   : working  :construction: :warning: </a><hr>
+	<a href="https://cds.github.io/">Profile</a><hr>
 	<a href="https://chandrakantsangale.netlify.app">Just Another Blog Gatsby Template </a><hr>
 	<a href="https://codeiotech.netlify.app/">Gatsby + bootstrap </a><hr>
 	<a href="https://appstrapper.netlify.app/examples/blog/">bootstrap + webpack (appstraper) deprecated project  :x: {wrong deployed}</a><hr>
