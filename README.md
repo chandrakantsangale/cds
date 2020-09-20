@@ -5,7 +5,7 @@
 	<a href="https://twitter.com/c_sangale">Twitter</a>
 </p>
 <h1>Live Demo</h1>
-<p align="left">
+<div align="left">
 	<ul>
 	<a href="https://cds.github.io/">Profile</a>
 		<hr>
@@ -34,7 +34,6 @@
 		</li>
 		<hr>
 	</ul>
-		
 	<ul>
 		<h1> Vuejs</h1>
 		<li>
@@ -46,7 +45,6 @@
 		<li>
 			<a href="http://ec2-3-15-153-4.us-east-2.compute.amazonaws.com:3000/">MEVN stack Task List app on deployed on amazonaws</a>
 		</li>
-		
 	</ul>
 	<ul>
 		<li>
@@ -57,7 +55,7 @@
 		</li>
 		<hr>
 	</ul>
-</p>
+</div>
 
 # Never Look Back
 
