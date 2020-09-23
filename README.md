@@ -37,6 +37,15 @@
 	<ul>
 		<h1> Vuejs</h1>
 		<li>
+			<a href="https://vuejs-express.netlify.app/">Frontend Authentication app with vuejs-express-auth0</a>
+		</li>
+		<li>
+			<a href="https://node-express-auth0-vuejs.herokuapp.com/events/">Backend for Authentication app with vuejs-express-auth0</a>
+		</li>
+		<li>
+			<a href="https://node-express-auth0-vuejs.herokuapp.com/events/1">Backend for Authentication app with vuejs-express-auth0</a>
+		</li>
+		<li>
 			<a href="https://node-express-vue-mongo.herokuapp.com/">Bucket List(todo)app with node-express-mongo-vue</a>
 		</li>
 		<li>
