@@ -63,6 +63,12 @@
 		<li>
 			<a href="https://cds.bss.design/">Demo Design :construction:  :warning: :x: {bootstrap studio deployed}</a>
 		</li>
+		<li>
+			<a href="https://csangale.netlify.app/">Presonal- AI Voice Text Speech </a>
+		</li>
+		<li>
+			<a href="https://design-svg.netlify.app/">Svg Design Animation</a>
+		</li>
 	</ul>
 	<hr>
 </div>
@@ -70,4 +76,4 @@
 # Never Look Back
 
 ![Image of Never Look Back](https://avatars2.githubusercontent.com/u/31181223)<br>
-<a href="https://csangale.netlify.app/">Presonal- AI Voice Text Speech </a>
+
