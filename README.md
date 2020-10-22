@@ -64,7 +64,7 @@
 			<a href="https://cds.bss.design/">Demo Design :construction:  :warning: :x: {bootstrap studio deployed}</a>
 		</li>
 		<li>
-			<a href="https://csangale.netlify.app/">Presonal- AI Voice Text Speech </a>
+			<a href="https://csangale.netlify.app/"> AI Voice Text Speech </a>
 		</li>
 		<li>
 			<a href="https://design-svg.netlify.app/">Svg Design Animation</a>
