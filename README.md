@@ -4,6 +4,9 @@
 	<a href="https://github.com/csangale">GitHub2</a>
 	<a href="https://twitter.com/c_sangale">Twitter</a>
 </p>
+<p align="left">
+	Resume <a href="https://github.com/cds/cds/raw/master/Chandrakant_Sangale_Resume.pdf">Download</a>
+</p>
 <h1>Live Demo</h1>
 <div align="left">
 	<ul>
@@ -82,5 +85,5 @@
 ![Image of Never Look Back](https://avatars2.githubusercontent.com/u/31181223)<br>
 
 
-Resume[Download](https://github.com/cds/cds/raw/master/Chandrakant_Sangale_Resume.pdf)
+Resume [Download](https://github.com/cds/cds/raw/master/Chandrakant_Sangale_Resume.pdf)
 
